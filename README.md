@@ -1,8 +1,43 @@
 <div align="center">
-  <img src="build/CybeCat.png" alt="CybeCat Logo" width="150" />
-  <h1>🐱 CybeCat Music Player</h1>
+<pre>
+⠀⠀⠀⢀⣤⣤⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣸⡿⠋⠀⠉⠙⠛⢷⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⢀⠀⠀⠀
+⠀⠀⣿⠁⠀⠀⠀⠀⠀⠀⠈⠻⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣦⣾⠟⠛⠛⠻⣷⣤⠀
+⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠷⣤⣄⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⡾⠻⠛⠉⠉⠀⠀⠀⠀⠙⢿⣆
+⠀⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⡶⠿⠛⠋⠉⠉⠉⠉⠉⠉⠉⠙⠛⠻⠷⢶⣤⣤⣤⣾⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟
+⢀⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣟
+⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣯
+⠈⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣗
+⠀⢿⡄⠀⠀⢀⣠⣴⡶⠶⠿⠻⠷⢶⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡶⠿⠛⠛⠉⠉⠛⠛⠿⣶⣄⡀⠀⠀⠀⠀⠀⢸⡏
+⠀⢸⣇⢀⣼⣿⠿⣡⣴⣶⣿⣶⣿⣶⣬⡛⢿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⡟⢉⣴⣶⣿⣿⣿⣿⣶⣷⣦⡈⠙⠿⣶⣤⡀⠀⢰⡿⠁
+⠀⠈⣿⣿⣟⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⢻⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡈⠻⣷⡀⣼⡏⠀
+⠀⠀⣽⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⢻⡇⠀⠀⠀⠀⠀⠀⠀⢰⡿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⢹⣷⣿⠃⠀
+⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠸⣷⠀⠀⠀⠀⠀⠀⠀⣿⠃⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡜⣿⡇⠀⠀
+⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢿⡇⠀⠀⠀⠀⠀⠀⣿⡀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡁⣿⣿⠀⠀
+⢸⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢸⡇⠀⠀⠀⠀⠀⠀⢹⣇⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⠀⠀
+⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⣼⡇⠀⠀⠀⠀⠀⠀⠈⣿⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢣⣿⣟⠀⠀
+⠈⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⣰⡿⠁⠀⠀⠀⠀⠀⠀⠀⢹⣷⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣸⣿⠇⠀⠀
+⠀⢺⣿⡽⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⢡⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣧⡀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣱⣿⡟⠀⠀⠀
+⠀⠀⢻⣿⣶⣤⣄⣈⡉⠉⠉⢉⣁⣀⣠⣼⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣦⠉⠻⠿⣿⣿⣿⣿⣿⣿⡿⢛⣴⣿⠏⠀⠀⠀⠀
+⠀⠀⠀⠛⢿⣯⡉⠛⠛⠛⠛⠛⠋⠉⠉⠁⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⠷⣶⣤⣄⣬⣩⣉⣭⣤⣶⢿⣿⠃⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⢿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠙⠻⠿⣶⣤⣤⣄⣀⣀⣀⣠⣠⣤⣴⡶⠆⠀⠀⠀⠁⠉⠀⠁⠉⠀⠁⣠⣿⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠁⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⠟⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠻⠿⣶⡤⣤⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⡶⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡉⠙⠛⠛⠻⠶⠶⣦⣤⣤⣤⣤⣤⣤⣤⣤⣴⠞⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣯⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠸⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⡄⠀⠀⠀⠀⠀⠀⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠹⣷⣄⠀⠀⠀⠀⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣧⠀⠀⠀⠀⠀⠀⢀⣾⠇⠀⠈⠻⣿⣦⣄⣀⢀⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣶⣤⣤⣤⣶⣶⠿⠋⠀⠀⠀⠀⠀⠈⠉⠋⠙⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
+  <h1>CybeCat Music Player</h1>
   <p><strong>Un reproductor de música de escritorio moderno, estético y personalizable.</strong></p>
-  <p>Construido con ⚡ Electron, ⚛️ React y 🟦 TypeScript.</p>
+  <p>Construido con Electron, React y TypeScript.</p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgray.svg)]()
@@ -10,39 +45,39 @@
 
 ---
 
-## 🎶 Sobre el Proyecto
+## Sobre el Proyecto
 
 **CybeCat** es una aplicación de escritorio diseñada para ofrecer una experiencia auditiva envolvente. Con una interfaz moderna que aprovecha efectos visuales atractivos (como fondos de partículas y acabados cristalinos), no solo te permite escuchar tu música local, sino que la presenta de la forma más estética posible.
 
-### ✨ Características Principales
-- 🎧 **Gestión de Biblioteca:** Navega fácilmente por tus **Canciones, Álbumes, Artistas y Carpetas locales**.
-- 📜 **Letras en Tiempo Real:** Visualizador de letras integrado para cantar tus canciones favoritas.
-- 🎨 **Personalización Dinámica:** Temas que se adaptan al color dominante de la portada del álbum que estés escuchando.
-- 🐈 **Mascota Interactiva:** ¡Una simpática mascota que te acompaña mientras escuchas!
-- 🪟 **Modo Mini-Reproductor:** Para no perder de vista lo que suena mientras trabajas.
-- 🎛️ **Ecualización e Interfaz Cristalina:** Disfruta de un diseño *Glassmorphism* que se siente premium.
+### Características Principales
+- **Gestión de Biblioteca:** Navega fácilmente por tus **Canciones, Álbumes, Artistas y Carpetas locales**.
+- **Letras en Tiempo Real:** Visualizador de letras integrado para cantar tus canciones favoritas.
+- **Personalización Dinámica:** Temas que se adaptan al color dominante de la portada del álbum que estés escuchando.
+- **Mascota Interactiva:** Una simpática mascota que te acompaña mientras escuchas.
+- **Modo Mini-Reproductor:** Para no perder de vista lo que suena mientras trabajas.
+- **Ecualización e Interfaz Cristalina:** Disfruta de un diseño Glassmorphism que se siente premium.
 
 ---
 
-## 🚀 Descargar Instalador
+## Descargar Instalador
 
 > [!TIP]
-> **¡No necesitas compilar el proyecto para probarlo!**  
+> **No necesitas compilar el proyecto para probarlo.**  
 > Puedes descargar el archivo ejecutable (`.exe`) listo para instalar y usar directamente desde el apartado de **[Releases (Lanzamientos)](https://github.com/Kamuri2/CybeCat-Project/releases)** de este repositorio.
 
 ---
 
-## 💻 Desarrollo
+## Desarrollo
 
 Si deseas explorar el código fuente, clonar el proyecto y modificarlo por tu cuenta, sigue estos pasos:
 
-### 🛠️ Tecnologías utilizadas
+### Tecnologías utilizadas
 - [Electron](https://www.electronjs.org/) (Framework principal)
 - [React](https://reactjs.org/) (UI de la aplicación)
 - [Vite](https://vitejs.dev/) (Empaquetador ultrarrápido)
 - [TypeScript](https://www.typescriptlang.org/) (Tipado seguro)
 
-### 📦 Instalación
+### Instalación
 
 ```bash
 # Clonar el repositorio
@@ -55,13 +90,13 @@ cd CybeCat-Project
 npm install
 ```
 
-### 🏃‍♂️ Ejecutar en modo desarrollo
+### Ejecutar en modo desarrollo
 
 ```bash
 npm run dev
 ```
 
-### 🏗️ Compilar el instalador (Build)
+### Compilar el instalador (Build)
 
 ```bash
 # Para Windows
@@ -76,5 +111,5 @@ npm run build:linux
 
 ---
 <div align="center">
-  <sub>Desarrollado con ❤️ para los amantes de la música y la estética.</sub>
+  <sub>Desarrollado para los amantes de la música y la estética.</sub>
 </div>
